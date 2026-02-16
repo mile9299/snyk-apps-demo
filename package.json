@@ -68,13 +68,13 @@
     "yargs": "^17.7.2"
   },
   "dependencies": {
-    "axios": "^1.6.0",
+    "axios": "^1.13.5",
     "config": "^3.3.9",
     "cryptr": "^6.3.0",
     "dotenv": "^10.0.0",
     "ejs": "^3.1.9",
     "envar-check": "0.0.3",
-    "express": "^4.18.2",
+    "express": "^4.22.0",
     "express-rate-limit": "^5.5.1",
     "express-session": "^1.17.3",
     "form-data": "^4.0.0",
@@ -84,7 +84,7 @@
     "luxon": "^2.5.2",
     "passport": "^0.6.0",
     "passport-oauth2": "^1.7.0",
-    "qs": "^6.11.2"
+    "qs": "^6.14.2"
   },
   "nodemonConfig": {
     "ignore": [
